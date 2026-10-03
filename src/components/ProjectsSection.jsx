@@ -11,28 +11,28 @@ function ProjectsSection(){
           title="About Me in React"
           description="My first React project, rebuilt from a plain HTML page."
           tech="React · Tailwind CSS"
-          link="https://github.com/juandelacruz/CSIT340-Lab1-DelaCruz"
+          link="https://github.com/jedrekninodelica/CSIT340-Lab1-Delica"
+        />
+        <ProjectCard
+          year="2026"
+          title="BaonBuddy"
+          description="An allowance tracker for Filipino students, built for my Android class."
+          tech="Android · SharedPreferences"
+          link="https://github.com/jedrekninodelica/BaonBuddy"
+        />
+        <ProjectCard
+          year="2026"
+          title="UNA"
+          description="A smart remiinders app for students that shows only the one task to focus on, instead of the whole list."
+          tech="SQLite · Google Tasks API"
+          link="TBA"
         />
         <ProjectCard
           year="2025"
-          title="Canteen Queue"
-          description="A page that shows how long the canteen line is so students can decide when to go."
-          tech="HTML · CSS · JavaScript"
-          link="https://github.com/juandelacruz/canteen-queue"
-        />
-        <ProjectCard
-          year="2025"
-          title="Clinic Records"
-          description="A desktop app for our database class that keeps visit records for a small clinic."
-          tech="Java · MySQL"
-          link="https://github.com/juandelacruz/clinic-records"
-        />
-        <ProjectCard
-          year="2024"
-          title="Org Event Page"
-          description="A one-page site for our org's freshman orientation, with the schedule and venue."
-          tech="HTML · Bootstrap"
-          link="https://github.com/juandelacruz/org-event-page"
+          title="INCORRUPTIBLE"
+          description="My first OOP project, a simple text-based RPG game built in Java."
+          tech="Java"
+          link="https://github.com/jedrekninodelica/INCORRUPTIBLEv3"
         />
       </div>
     </section>

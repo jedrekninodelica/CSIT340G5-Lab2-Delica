@@ -13,16 +13,16 @@ function ExperienceSection() {
           description="Taking up web development, databases, and systems analysis."
         />
         <TimelineItem
-          period="2025"
-          title="Student Assistant"
-          place="CCS Computer Laboratory"
-          description="Set up lab machines and helped students with software installs."
-        />
-        <TimelineItem
           period="2022 – 2024"
-          title="Senior High School, ICT Strand"
-          place="Talisay City National High School"
-          description="Built my first web page and got hooked."
+          title="Senior High School, STEM Strand"
+          place="Mary Help of Christians School (Cebu), Inc."
+          description="Underwent work immersion at the local IT government office of the City of Naga, Cebu. Updated and refreshed icons on the website."
+        />
+      <TimelineItem
+          period="2022 – 2024"
+          title="Junior High School"
+          place="Mary Help of Christians School (Cebu), Inc."
+          description="Underwent work immersion at the local IT government office of the City of Naga, Cebu. Updated and refreshed icons on the website."
         />
       </ol>
     </section>
